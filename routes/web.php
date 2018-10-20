@@ -34,3 +34,4 @@ Route::resource('/kurikulum', 'KurikulumController');
 Route::get('/setting', 'SettingController@index');
 Route::put('/setting', 'SettingController@update');
 Route::get('/jadwalkuliah', 'JadwalkuliahController@index');
+Route::get('/jadwalkuliah/create', 'JadwalkuliahController@create');

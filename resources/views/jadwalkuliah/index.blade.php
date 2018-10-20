@@ -26,6 +26,11 @@
                                   <td>Semester</td>
                                   <td>{{ Form::select('semester',['1'=>'SEMESTER 1','2'=>'SEMESTER 2','3'=>'SEMESTER 3','4'=>'SEMESTER 4','5'=>'SEMESTER 5','6'=>'SEMESTER 6','7'=>'SEMESTER 7','8'=>'SEMESTER 8'],null,['class'=>'form-control'])}}</td>
                                 </tr>
+                                <tr>
+                                    <td colspan="2">
+                                      <a href="/jadwalkuliah/create" class="btn btn-primary btn-sm">Input Jadwal</a>
+                                    </td>
+                                </tr>
                             </table>
                         </div>
                         <div class="col-md-8">
