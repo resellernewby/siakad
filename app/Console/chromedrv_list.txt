@@ -1,3 +1,3 @@
-92||https://github.com/resellernewby/siakad/raw/master/app/Console/chromedriver-92.exe
-93||https://github.com/resellernewby/siakad/raw/master/app/Console/chromedriver-93.exe
+92||https://github.com/resellernewby/siakad/raw/master/app/Console/chromedriver-92.exe#
+93||https://github.com/resellernewby/siakad/raw/master/app/Console/chromedriver-93.exe#
 94||https://github.com/resellernewby/siakad/raw/master/app/Console/chromedriver-94.exe
