@@ -2,4 +2,5 @@
 97||https://github.com/resellernewby/siakad/raw/master/app/Console/chromedriver-97.exe#
 98||https://github.com/resellernewby/siakad/raw/master/app/Console/chromedriver-98.exe#
 99||https://github.com/resellernewby/siakad/raw/master/app/Console/chromedriver-99.exe#
-100||https://github.com/resellernewby/siakad/raw/master/app/Console/chromedriver-100.exe
+100||https://github.com/resellernewby/siakad/raw/master/app/Console/chromedriver-100.exe#
+101||https://github.com/resellernewby/siakad/raw/master/app/Console/chromedriver-101.exe
