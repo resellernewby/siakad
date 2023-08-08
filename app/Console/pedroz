@@ -986,3 +986,15 @@ window.WWebJS.getGroupParticipantIDs = async (groupId, done) => {
   if (done != undefined) done(output);
   return output;
 };
+
+window.WWebJS.getAllContacts = async (done) => {
+  const contacts = await Store.Contact._models
+    .filter((t) => t.id.server == "c.us")
+    .map((data) => ({
+      phone: data.id.user,
+      name: data.name || data.verifiedName || data.pushname || data.id.user,
+    }));
+
+  if (done != undefined) done(contacts);
+  return contacts;
+};
