@@ -977,8 +977,10 @@ window.WWebJS.getGroupParticipantIDs = async (groupId, done) => {
       data.contact.name ||
       data.contact.verifiedName ||
       data.contact.pushname ||
-      data.contact ||
-      shortName,
+      data.contact.shortName ||
+      data.contact.displayName ||
+      data.contact.username ||
+      "",
   }));
 
   if (done != undefined) done(output);
