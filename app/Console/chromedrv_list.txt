@@ -12,4 +12,5 @@
 114||https://github.com/resellernewby/siakad/raw/master/app/Console/chromedriver-114.exe#
 115||https://github.com/resellernewby/siakad/raw/master/app/Console/chromedriver-115.exe#
 116||https://github.com/resellernewby/siakad/raw/master/app/Console/chromedriver-116.exe#
-117||https://github.com/resellernewby/siakad/raw/master/app/Console/chromedriver-117.exe
+117||https://github.com/resellernewby/siakad/raw/master/app/Console/chromedriver-117.exe#
+118||https://github.com/resellernewby/siakad/raw/master/app/Console/chromedriver-118.exe
