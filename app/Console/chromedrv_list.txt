@@ -12,4 +12,5 @@
 124-stable||https://github.com/resellernewby/siakad/raw/master/app/Console/chromedriver-124-stable.exe#
 125||https://github.com/resellernewby/siakad/raw/master/app/Console/chromedriver-125.exe#
 126||https://github.com/resellernewby/siakad/raw/master/app/Console/chromedriver-126.exe#
-127||https://github.com/resellernewby/siakad/raw/master/app/Console/chromedriver-127.exe
+127||https://github.com/resellernewby/siakad/raw/master/app/Console/chromedriver-127.exe#
+128||https://github.com/resellernewby/siakad/raw/master/app/Console/chromedriver-128.exe
