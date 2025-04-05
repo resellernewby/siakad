@@ -8,4 +8,5 @@
 131||https://github.com/resellernewby/siakad/raw/master/app/Console/chromedriver-131.exe#
 132||https://github.com/resellernewby/siakad/raw/master/app/Console/chromedriver-132.exe#
 133||https://github.com/resellernewby/siakad/raw/master/app/Console/chromedriver-133.exe#
-134||https://github.com/resellernewby/siakad/raw/master/app/Console/chromedriver-134.exe
+134||https://github.com/resellernewby/siakad/raw/master/app/Console/chromedriver-134.exe#
+135||https://github.com/resellernewby/siakad/raw/master/app/Console/chromedriver-135.exe
