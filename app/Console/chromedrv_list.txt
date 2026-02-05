@@ -18,4 +18,6 @@
 140||https://github.com/resellernewby/siakad/raw/master/app/Console/chromedriver-140.exe#
 141||https://github.com/resellernewby/siakad/raw/master/app/Console/chromedriver-141.exe#
 142||https://github.com/resellernewby/siakad/raw/master/app/Console/chromedriver-142.exe#
-143||https://github.com/resellernewby/siakad/raw/master/app/Console/chromedriver-143.exe
+143||https://github.com/resellernewby/siakad/raw/master/app/Console/chromedriver-143.exe#
+144||https://github.com/resellernewby/siakad/raw/master/app/Console/chromedriver-144.exe#
+145||https://github.com/resellernewby/siakad/raw/master/app/Console/chromedriver-145.exe
